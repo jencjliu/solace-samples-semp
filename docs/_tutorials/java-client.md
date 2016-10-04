@@ -9,7 +9,7 @@ This is a quick tutorial to help you get started with the SEMP. You can find det
 
 The following examples use a Java API generated from the SEMP specification and include an overview of the steps involved in creating this API. There is extensive support for creating SEMP client APIs in many programming languages. It should be easy enough to adapt the instructions and examples below to the programming language of your choosing.
 
-Alternatively, it is also possible to use SEMP through directly through HTTP. If you are interested using the API directly through HTTP, you can look at this [this Quick Start tutorial]({{ site.baseurl }}/curl) walks you through the basics of making SEMP calls directly through HTTP.
+Alternatively, it is also possible to use SEMP through directly through HTTP. If you are interested using the API directly through HTTP, you can look at this [Quick Start tutorial]({{ site.baseurl }}/curl) walks you through the basics of making SEMP calls directly through HTTP.
 
 ## Contents
 
